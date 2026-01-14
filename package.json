@@ -265,7 +265,7 @@
     "callsite": "1.0.0",
     "conventional-changelog-conventionalcommits": "5.0.0",
     "cross-env": "7.0.3",
-    "diff": "5.1.0",
+    "diff": "8.0.3",
     "emojibase-data": "7.0.1",
     "eslint": "8.19.0",
     "eslint-config-prettier": "8.5.0",
